@@ -1,4 +1,4 @@
-# 
+# Atualizado Bumblebee scripts. Com treinamento de modelos personalizados e execução de código — otimizado para máximo desempenho e eficiência.
 
 
 
